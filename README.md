@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development 
 - 🌱 I’m currently relearning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...projects and lessons
-- 📫 How to reach me ... twitter @yourstrulydruu
+
 
 <!---
 andex23/andex23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
