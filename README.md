@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dru
-- 👀 a Software Engineer
-💙Let's work💙
+- 👀 a Software Engineer and product manager.
+💙Let's work together💙
 
 <!---
 andex23/andex23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
